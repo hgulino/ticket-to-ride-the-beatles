@@ -1,0 +1,22 @@
+[
+  { "start": "Regent's Park", "end": "Piccadilly Circus", "points": 5 },
+  { "start": "Covent Garden", "end": "Tower of London", "points": 6 },
+  { "start": "King's Cross", "end": "Tower of London", "points": 7 },
+  { "start": "Baker Street", "end": "Tower of London", "points": 11 },
+  { "start": "Big Ben", "end": "Tower of London", "points": 6 },
+  { "start": "Piccadilly Circus", "end": "Waterloo", "points": 3 },
+  { "start": "Piccadilly Circus", "end": "British Muesum", "points": 2 },
+  { "start": "Bucingham Palace", "end": "Brick Lane", "points": 9 },
+  { "start": "Bucingham Palace", "end": "Elephant & Castle", "points": 5 },
+  { "start": "King's Cross", "end": "Bucingham Palace", "points": 6 },
+  { "start": "Trafalcar Square", "end": "Globe Theatre", "points": 4 },
+  { "start": "Trafalcar Square", "end": "Saint Paul", "points": 4 },
+  { "start": "Baker Street", "end": "Trafalcar Square", "points": 5 },
+  { "start": "British Muesum", "end": "Saint Paul", "points": 4 },
+  { "start": "Hyde Park", "end": "Saint Paul", "points": 6 },
+  { "start": "Regent's Park", "end": "Elephant & Castle", "points": 9 },
+  { "start": "Hyde Park", "end": "Covent Garden", "points": 3 },
+  { "start": "Brick Lane", "end": "Globe Theatre", "points": 4 },
+  { "start": "Big Ben", "end": "The Charterhouse", "points": 5 },
+  { "start": "British Muesum", "end": "Waterloo", "points": 4 }
+]

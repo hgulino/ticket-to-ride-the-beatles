@@ -1,0 +1,19 @@
+[
+  { "city": "British Muesum", "latitude": 0, "longitude": 0, "district": 1 },
+  { "city": "Covent Garden", "latitude": 0, "longitude": 0, "district": 1 },
+  { "city": "Big Ben", "latitude": 0, "longitude": 0, "district": 2 },
+  { "city": "Bucingham Palace", "latitude": 0, "longitude": 0, "district": 2 },
+  { "city": "Piccadilly Circus", "latitude": 0, "longitude": 0, "district": 2 },
+  { "city": "Trafalcar Square", "latitude": 0, "longitude": 0, "district": 2 },
+  { "city": "Elephant & Castle", "latitude": 0, "longitude": 0, "district": 3 },
+  { "city": "Globe Theatre", "latitude": 0, "longitude": 0, "district": 3 },
+  { "city": "Waterloo", "latitude": 0, "longitude": 0, "district": 3 },
+  { "city": "Brick Lane", "latitude": 0, "longitude": 0, "district": 4 },
+  { "city": "The Charterhouse", "latitude": 0, "longitude": 0, "district": 4 },
+  { "city": "Saint Paul", "latitude": 0, "longitude": 0, "district": 4 },
+  { "city": "Tower of London", "latitude": 0, "longitude": 0, "district": 4 },
+  { "city": "Baker Street", "latitude": 0, "longitude": 0, "district": 5 },
+  { "city": "Hyde Park", "latitude": 0, "longitude": 0, "district": 5 },
+  { "city": "King's Cross", "latitude": 0, "longitude": 0, "district": 5 },
+  { "city": "Regent's Park", "latitude": 0, "longitude": 0, "district": 5 }
+]

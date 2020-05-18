@@ -1,0 +1,310 @@
+[
+  {
+    "start": "Baker Street",
+    "end": "Regent Park",
+    "color": "BLUE",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Baker Street",
+    "end": "British Muesum",
+    "color": "ORANGE",
+    "length": 4,
+    "occupied": null
+  },
+  {
+    "start": "Baker Street",
+    "end": "Piccaddilly Circus",
+    "color": "WILD",
+    "length": 4,
+    "occupied": null
+  },
+  {
+    "start": "Baker Street",
+    "end": "Hyde Park",
+    "color": "BLACK",
+    "length": 4,
+    "occupied": null
+  },
+  {
+    "start": "Regent's Park",
+    "end": "British Muesum",
+    "color": "YELLOW",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Regent's Park",
+    "end": "King's Cross",
+    "color": "GREEN",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Hyde Park",
+    "end": "Piccaddilly Circus",
+    "color": "WILD",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "Hyde Park",
+    "end": "Piccaddilly Circus",
+    "color": "WILD",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "Hyde Park",
+    "end": "Buckingham Palace",
+    "color": "YELLOW",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Hyde Park",
+    "end": "Buckingham Palace",
+    "color": "ORANGE",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "King's Cross",
+    "end": "The Charterhouse",
+    "color": "PINK",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "King's Cross",
+    "end": "British Muesum",
+    "color": "BLACK",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "British Museum",
+    "end": "Piccaddilly Circus",
+    "color": "WILD",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "British Museum",
+    "end": "Covent Garden",
+    "color": "WILD",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "British Museum",
+    "end": "Covent Garden",
+    "color": "WILD",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "British Museum",
+    "end": "The Charterhouse",
+    "color": "BLUE",
+    "length": 4,
+    "occupied": null
+  },
+  {
+    "start": "Piccadilly Circus",
+    "end": "Covent Garden",
+    "color": "GREEN",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Piccadilly Circus",
+    "end": "Covent Garden",
+    "color": "YELLOW",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Piccadilly Circus",
+    "end": "Trafalgar Square",
+    "color": "BLUE",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Piccadilly Circus",
+    "end": "Trafalgar Square",
+    "color": "ORANGE",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Piccadilly Circus",
+    "end": "Buckingham Palace",
+    "color": "PINK",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "Buckingham Palace",
+    "end": "Trafalgar Square",
+    "color": "WILD",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "Buckingham Palace",
+    "end": "Big Ben",
+    "color": "GREEN",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "The Charterhouse",
+    "end": "Brick Lane",
+    "color": "GREEN",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "The Charterhouse",
+    "end": "Saint Paul",
+    "color": "BLACK",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Covent Garden",
+    "end": "Saint Paul",
+    "color": "WILD",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Covent Garden",
+    "end": "Saint Paul",
+    "color": "WILD",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Covent Garden",
+    "end": "Trafalgar Square",
+    "color": "BLACK",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Covent Garden",
+    "end": "Trafalgar Square",
+    "color": "PINK",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Trafalgar Square",
+    "end": "Waterloo",
+    "color": "WILD",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "Trafalgar Square",
+    "end": "Big Ben",
+    "color": "WILD",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Saint Paul",
+    "end": "Brick Lane",
+    "color": "ORANGE",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Saint Paul",
+    "end": "Tower of London",
+    "color": "YELLOW",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Saint Paul",
+    "end": "Tower of London",
+    "color": "PINK",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Saint Paul",
+    "end": "Globe Theatre",
+    "color": "WILD",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Saint Paul",
+    "end": "Globe Theatre",
+    "color": "WILD",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Waterloo",
+    "end": "Globe Theatre",
+    "color": "PINK",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "Waterloo",
+    "end": "Elephant & Castle",
+    "color": "ORANGE",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "Big Ben",
+    "end": "Waterloo",
+    "color": "BLUE",
+    "length": 1,
+    "occupied": null
+  },
+  {
+    "start": "Big Ben",
+    "end": "Elephant & Castle",
+    "color": "YELLOW",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Globe Theatre",
+    "end": "Tower of London",
+    "color": "WILD",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Globe Theatre",
+    "end": "Elephant & Castle",
+    "color": "GREEN",
+    "length": 2,
+    "occupied": null
+  },
+  {
+    "start": "Brick Lane",
+    "end": "Tower of London",
+    "color": "BLUE",
+    "length": 3,
+    "occupied": null
+  },
+  {
+    "start": "Elephant & Castle",
+    "end": "Tower of London",
+    "color": "BLACK",
+    "length": 4,
+    "occupied": null
+  }
+]
